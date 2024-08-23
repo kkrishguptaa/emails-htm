@@ -1409,10 +1409,10 @@ proto-list@~1.2.1:
   resolved "https://registry.yarnpkg.com/proto-list/-/proto-list-1.2.4.tgz#212d5bfe1318306a420f6402b8e26ff39647a849"
   integrity sha512-vtK/94akxsTMhe0/cbfpR+syPuszcuwhqVjJq26CuNDgFGj682oRBXOP5MJpv2r7JtE8MsiepGIqvvOTBwn2vA==
 
-react-email@3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/react-email/-/react-email-3.0.0.tgz#f4e514d77c2986d8d219057efecfa9e7e57d1a83"
-  integrity sha512-5MYZFDkAc5nOdJA5GWJin3iJeDVqf91lhDJTwdsGW2qWGovF9pnvyOfg8de+iDUPM3jfNvrmrIGuExUVFSQE+A==
+react-email@3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/react-email/-/react-email-3.0.1.tgz#46e6caded42e71f75358157fa42cbd7e400e3982"
+  integrity sha512-G4Bkx2ULIScy/0Z8nnWywHt0W1iTkaYCdh9rWNuQ3eVZ6B3ttTUDE9uUy3VNQ8dtQbmG0cpt8+XmImw7mMBW6Q==
   dependencies:
     "@babel/core" "7.24.5"
     "@babel/parser" "7.24.5"
