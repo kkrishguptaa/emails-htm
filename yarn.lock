@@ -423,10 +423,10 @@
   resolved "https://registry.yarnpkg.com/@react-email/button/-/button-0.0.17.tgz#42f898073512edd29ca6ffe4c400eca106a4d2c3"
   integrity sha512-ioHdsk+BpGS/PqjU6JS7tUrVy9yvbUx92Z+Cem2+MbYp55oEwQ9VHf7u4f5NoM0gdhfKSehBwRdYlHt/frEMcg==
 
-"@react-email/code-block@0.0.8":
-  version "0.0.8"
-  resolved "https://registry.yarnpkg.com/@react-email/code-block/-/code-block-0.0.8.tgz#9ec2f9de2c63d106d599b8e62f1849b806437150"
-  integrity sha512-WbuAEpTnB262i9C3SGPmmErgZ4iU5KIpqLUjr7uBJijqldLqZc5x39e8wPWaRdF7NLcShmrc/+G7GJgI1bdC5w==
+"@react-email/code-block@0.0.9":
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/@react-email/code-block/-/code-block-0.0.9.tgz#c4ddc6afd90f461c3fb67ef4a0697ede29761978"
+  integrity sha512-Zrhc71VYrSC1fVXJuaViKoB/dBjxLw6nbE53Bm/eUuZPdnnZ1+ZUIh8jfaRKC5MzMjgnLGQTweGXVnfIrhyxtQ==
   dependencies:
     prismjs "1.29.0"
 
@@ -440,14 +440,14 @@
   resolved "https://registry.yarnpkg.com/@react-email/column/-/column-0.0.12.tgz#299ac8e3e6210b59aba93e7937286cd8639a8b30"
   integrity sha512-Rsl7iSdDaeHZO938xb+0wR5ud0Z3MVfdtPbNKJNojZi2hApwLAQXmDrnn/AcPDM5Lpl331ZljJS8vHTWxxkvKw==
 
-"@react-email/components@0.0.24":
-  version "0.0.24"
-  resolved "https://registry.yarnpkg.com/@react-email/components/-/components-0.0.24.tgz#876563ffb74a2b8e07fef898b2f51a8fe77d8b05"
-  integrity sha512-/DNmfTREaT59UFdkHoIK3BewJ214LfRxmduiil3m7POj+gougkItANu1+BMmgbUATxjf7jH1WoBxo9x/rhFEFw==
+"@react-email/components@0.0.25":
+  version "0.0.25"
+  resolved "https://registry.yarnpkg.com/@react-email/components/-/components-0.0.25.tgz#fcfa745db53b7dca0141ed8bd619f3454293ed87"
+  integrity sha512-lnfVVrThEcET5NPoeaXvrz9UxtWpGRcut2a07dLbyKgNbP7vj/cXTI5TuHtanCvhCddFpMDnElNRghDOfPzwUg==
   dependencies:
     "@react-email/body" "0.0.10"
     "@react-email/button" "0.0.17"
-    "@react-email/code-block" "0.0.8"
+    "@react-email/code-block" "0.0.9"
     "@react-email/code-inline" "0.0.4"
     "@react-email/column" "0.0.12"
     "@react-email/container" "0.0.14"
