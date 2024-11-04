@@ -440,10 +440,10 @@
   resolved "https://registry.yarnpkg.com/@react-email/column/-/column-0.0.12.tgz#299ac8e3e6210b59aba93e7937286cd8639a8b30"
   integrity sha512-Rsl7iSdDaeHZO938xb+0wR5ud0Z3MVfdtPbNKJNojZi2hApwLAQXmDrnn/AcPDM5Lpl331ZljJS8vHTWxxkvKw==
 
-"@react-email/components@0.0.26":
-  version "0.0.26"
-  resolved "https://registry.yarnpkg.com/@react-email/components/-/components-0.0.26.tgz#cc8c9d7402e42c155b4ff6aeb7cc332a8ba65ce6"
-  integrity sha512-FqxCGnQiI4zztEBAXPfjovIQ9e1l7NJNMgE8hSaH7slWySFn/PpPRQFYpxyCFNr9DqPVHtKYtpo8xvUYx2LdTg==
+"@react-email/components@0.0.27":
+  version "0.0.27"
+  resolved "https://registry.yarnpkg.com/@react-email/components/-/components-0.0.27.tgz#f1d35ceaa71983cf0d06a3559dda35388e6dc47b"
+  integrity sha512-4oIEL2m6HrL9GMClgj9EHg2o6ffFvoIB5YMaK+lk+AuICvNHh3TwveYi1xLYH1PZZB7fV83Vml8MWjbnOdrl8w==
   dependencies:
     "@react-email/body" "0.0.10"
     "@react-email/button" "0.0.18"
@@ -463,7 +463,7 @@
     "@react-email/render" "1.0.2"
     "@react-email/row" "0.0.11"
     "@react-email/section" "0.0.15"
-    "@react-email/tailwind" "1.0.0"
+    "@react-email/tailwind" "1.0.1"
     "@react-email/text" "0.0.10"
 
 "@react-email/container@0.0.14":
@@ -537,10 +537,10 @@
   resolved "https://registry.yarnpkg.com/@react-email/section/-/section-0.0.15.tgz#6092381d6a759efbc9c40a121239e559b2f81c0e"
   integrity sha512-xfM3Qy5eU7fbkwvktlTeQgad7uo+1Z7YVh1aowSZaRBvKbkEXgoH/XssRYQmQL8ZrZGXbEJMujwtf4fsQL6vrg==
 
-"@react-email/tailwind@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@react-email/tailwind/-/tailwind-1.0.0.tgz#949c71ffff38b301e9fbba1274c787ad12bccdbf"
-  integrity sha512-LV0SflR0aI5Sjxyp8upyPL8Ctwj+7aqwTgCDO9yZuOI6KpXbBGaYz8bSofe8oaVc/BmymZ5O3+/7FjQexbW+Yg==
+"@react-email/tailwind@1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@react-email/tailwind/-/tailwind-1.0.1.tgz#d47920a44538f3a5969c8d1c2a6d2c87f2beb50b"
+  integrity sha512-CPCIV1u8Voc6CMoYvd/wcgJek0uOsWNMNMUIJjJItb0+NflIeVg3gn49/zyrCqfturx7QIXTykkL82+5V7kKuA==
 
 "@react-email/text@0.0.10":
   version "0.0.10"
