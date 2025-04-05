@@ -363,50 +363,50 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
-"@next/env@15.2.2":
-  version "15.2.2"
-  resolved "https://registry.yarnpkg.com/@next/env/-/env-15.2.2.tgz#6345352365a811c523cecf284874ff489b675e59"
-  integrity sha512-yWgopCfA9XDR8ZH3taB5nRKtKJ1Q5fYsTOuYkzIIoS8TJ0UAUKAGF73JnGszbjk2ufAQDj6mDdgsJAFx5CLtYQ==
+"@next/env@15.2.3":
+  version "15.2.3"
+  resolved "https://registry.yarnpkg.com/@next/env/-/env-15.2.3.tgz#037ee37c4d61fcbdbb212694cc33d7dcf6c7975a"
+  integrity sha512-a26KnbW9DFEUsSxAxKBORR/uD9THoYoKbkpFywMN/AFvboTt94b8+g/07T8J6ACsdLag8/PDU60ov4rPxRAixw==
 
-"@next/swc-darwin-arm64@15.2.2":
-  version "15.2.2"
-  resolved "https://registry.yarnpkg.com/@next/swc-darwin-arm64/-/swc-darwin-arm64-15.2.2.tgz#d3131279d4815ed7604eba7bf0063e0b8bfd2135"
-  integrity sha512-HNBRnz+bkZ+KfyOExpUxTMR0Ow8nkkcE6IlsdEa9W/rI7gefud19+Sn1xYKwB9pdCdxIP1lPru/ZfjfA+iT8pw==
+"@next/swc-darwin-arm64@15.2.3":
+  version "15.2.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-darwin-arm64/-/swc-darwin-arm64-15.2.3.tgz#2688c185651ef7a16e5642c85048cc4e151159fa"
+  integrity sha512-uaBhA8aLbXLqwjnsHSkxs353WrRgQgiFjduDpc7YXEU0B54IKx3vU+cxQlYwPCyC8uYEEX7THhtQQsfHnvv8dw==
 
-"@next/swc-darwin-x64@15.2.2":
-  version "15.2.2"
-  resolved "https://registry.yarnpkg.com/@next/swc-darwin-x64/-/swc-darwin-x64-15.2.2.tgz#8562f6b51177aa30f3a6e95a8b3e0e176a6cb04f"
-  integrity sha512-mJOUwp7al63tDpLpEFpKwwg5jwvtL1lhRW2fI1Aog0nYCPAhxbJsaZKdoVyPZCy8MYf/iQVNDuk/+i29iLCzIA==
+"@next/swc-darwin-x64@15.2.3":
+  version "15.2.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-darwin-x64/-/swc-darwin-x64-15.2.3.tgz#3e802259b2c9a4e2ad55ff827f41f775b726fc7d"
+  integrity sha512-pVwKvJ4Zk7h+4hwhqOUuMx7Ib02u3gDX3HXPKIShBi9JlYllI0nU6TWLbPT94dt7FSi6mSBhfc2JrHViwqbOdw==
 
-"@next/swc-linux-arm64-gnu@15.2.2":
-  version "15.2.2"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-gnu/-/swc-linux-arm64-gnu-15.2.2.tgz#c2466cffc541f39ae4d435087c81f5899d401903"
-  integrity sha512-5ZZ0Zwy3SgMr7MfWtRE7cQWVssfOvxYfD9O7XHM7KM4nrf5EOeqwq67ZXDgo86LVmffgsu5tPO57EeFKRnrfSQ==
+"@next/swc-linux-arm64-gnu@15.2.3":
+  version "15.2.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-gnu/-/swc-linux-arm64-gnu-15.2.3.tgz#315d7b54b89153f125bdc3e40bcb7ccf94ef124b"
+  integrity sha512-50ibWdn2RuFFkOEUmo9NCcQbbV9ViQOrUfG48zHBCONciHjaUKtHcYFiCwBVuzD08fzvzkWuuZkd4AqbvKO7UQ==
 
-"@next/swc-linux-arm64-musl@15.2.2":
-  version "15.2.2"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-musl/-/swc-linux-arm64-musl-15.2.2.tgz#24ed87fe47325597e986bd01c427efae53d6b677"
-  integrity sha512-cgKWBuFMLlJ4TWcFHl1KOaVVUAF8vy4qEvX5KsNd0Yj5mhu989QFCq1WjuaEbv/tO1ZpsQI6h/0YR8bLwEi+nA==
+"@next/swc-linux-arm64-musl@15.2.3":
+  version "15.2.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-musl/-/swc-linux-arm64-musl-15.2.3.tgz#a1a458eb7cf19c59d2014ee388a7305e9a77973f"
+  integrity sha512-2gAPA7P652D3HzR4cLyAuVYwYqjG0mt/3pHSWTCyKZq/N/dJcUAEoNQMyUmwTZWCJRKofB+JPuDVP2aD8w2J6Q==
 
-"@next/swc-linux-x64-gnu@15.2.2":
-  version "15.2.2"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-15.2.2.tgz#0240f44530ca39c1fc899fabe8f33aa35d7e77da"
-  integrity sha512-c3kWSOSsVL8rcNBBfOq1+/j2PKs2nsMwJUV4icUxRgGBwUOfppeh7YhN5s79enBQFU+8xRgVatFkhHU1QW7yUA==
+"@next/swc-linux-x64-gnu@15.2.3":
+  version "15.2.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-15.2.3.tgz#a3cf22eda7601536ccd68e8ba4c1bfb4a1a33460"
+  integrity sha512-ODSKvrdMgAJOVU4qElflYy1KSZRM3M45JVbeZu42TINCMG3anp7YCBn80RkISV6bhzKwcUqLBAmOiWkaGtBA9w==
 
-"@next/swc-linux-x64-musl@15.2.2":
-  version "15.2.2"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-15.2.2.tgz#cca6ce8e9ec89afaa618673f0f8658682c30ff56"
-  integrity sha512-PXTW9PLTxdNlVYgPJ0equojcq1kNu5NtwcNjRjHAB+/sdoKZ+X8FBu70fdJFadkxFIGekQTyRvPMFF+SOJaQjw==
+"@next/swc-linux-x64-musl@15.2.3":
+  version "15.2.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-15.2.3.tgz#0e33c1224c76aa3078cc2249c80ef583f9d7a943"
+  integrity sha512-ZR9kLwCWrlYxwEoytqPi1jhPd1TlsSJWAc+H/CJHmHkf2nD92MQpSRIURR1iNgA/kuFSdxB8xIPt4p/T78kwsg==
 
-"@next/swc-win32-arm64-msvc@15.2.2":
-  version "15.2.2"
-  resolved "https://registry.yarnpkg.com/@next/swc-win32-arm64-msvc/-/swc-win32-arm64-msvc-15.2.2.tgz#08f621602ed53fa21ddf6f656160b9186860be15"
-  integrity sha512-nG644Es5llSGEcTaXhnGWR/aThM/hIaz0jx4MDg4gWC8GfTCp8eDBWZ77CVuv2ha/uL9Ce+nPTfYkSLG67/sHg==
+"@next/swc-win32-arm64-msvc@15.2.3":
+  version "15.2.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-win32-arm64-msvc/-/swc-win32-arm64-msvc-15.2.3.tgz#4e0583fb981b931915a9ad22e579f9c9d5b803dd"
+  integrity sha512-+G2FrDcfm2YDbhDiObDU/qPriWeiz/9cRR0yMWJeTLGGX6/x8oryO3tt7HhodA1vZ8r2ddJPCjtLcpaVl7TE2Q==
 
-"@next/swc-win32-x64-msvc@15.2.2":
-  version "15.2.2"
-  resolved "https://registry.yarnpkg.com/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-15.2.2.tgz#2072d69374f8c944134a5c5a80ce03ff84254cfa"
-  integrity sha512-52nWy65S/R6/kejz3jpvHAjZDPKIbEQu4x9jDBzmB9jJfuOy5rspjKu4u77+fI4M/WzLXrrQd57hlFGzz1ubcQ==
+"@next/swc-win32-x64-msvc@15.2.3":
+  version "15.2.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-15.2.3.tgz#727b90c7dcc2279344115a94b99d93d452956f02"
+  integrity sha512-gHYS9tc+G2W0ZC8rBL+H6RdtXIyk40uLiaos0yj5US85FNhbFEndMA2nW3z47nzOWiSvXTZ5kBClc3rD0zJg0w==
 
 "@pkgjs/parseargs@^0.11.0":
   version "0.11.0"
@@ -423,12 +423,12 @@
   resolved "https://registry.yarnpkg.com/@react-email/button/-/button-0.0.19.tgz#f7585fd560f59be661c6ccdc3211df8b17f9fc86"
   integrity sha512-HYHrhyVGt7rdM/ls6FuuD6XE7fa7bjZTJqB2byn6/oGsfiEZaogY77OtoLL/mrQHjHjZiJadtAMSik9XLcm7+A==
 
-"@react-email/code-block@0.0.11":
-  version "0.0.11"
-  resolved "https://registry.yarnpkg.com/@react-email/code-block/-/code-block-0.0.11.tgz#20369e4ac25789345f13d3c97c92a37536e81201"
-  integrity sha512-4D43p+LIMjDzm66gTDrZch0Flkip5je91mAT7iGs6+SbPyalHgIA+lFQoQwhz/VzHHLxuD0LV6gwmU/WUQ2WEg==
+"@react-email/code-block@0.0.12":
+  version "0.0.12"
+  resolved "https://registry.yarnpkg.com/@react-email/code-block/-/code-block-0.0.12.tgz#b8a18c331b0a15853b28ffc49656f6ca1fec8e89"
+  integrity sha512-Faw3Ij9+/Qwq6moWaeHnV8Hn7ekc/EqyAzPi6yUar21dhcqYugCC4Da1x4d9nA9zC0H9KU3lYVJczh8D3cA+Eg==
   dependencies:
-    prismjs "1.29.0"
+    prismjs "1.30.0"
 
 "@react-email/code-inline@0.0.5":
   version "0.0.5"
@@ -440,14 +440,14 @@
   resolved "https://registry.yarnpkg.com/@react-email/column/-/column-0.0.13.tgz#0aaa5d6abae1b590a0262bfbfd241344a2c60ad3"
   integrity sha512-Lqq17l7ShzJG/d3b1w/+lVO+gp2FM05ZUo/nW0rjxB8xBICXOVv6PqjDnn3FXKssvhO5qAV20lHM6S+spRhEwQ==
 
-"@react-email/components@0.0.35":
-  version "0.0.35"
-  resolved "https://registry.yarnpkg.com/@react-email/components/-/components-0.0.35.tgz#0267572d55ca547322349ff407650ee4388d1971"
-  integrity sha512-if1kLih4pfARgsXacs9eD9O3BVtRWxKRz1jjSWWiyk32eeFJLtWjBaoF8nsxQxk4w5nfqjAHVFBrxXQceB7xDQ==
+"@react-email/components@0.0.36":
+  version "0.0.36"
+  resolved "https://registry.yarnpkg.com/@react-email/components/-/components-0.0.36.tgz#6807e652df845998b8b4443d15d1a90243a86830"
+  integrity sha512-VMh+OQplAnG8JMLlJjdnjt+ThJZ+JVkp0q2YMS2NEz+T88N22bLD2p7DZO0QgtNaKgumOhJI/0a2Q7VzCrwu5g==
   dependencies:
     "@react-email/body" "0.0.11"
     "@react-email/button" "0.0.19"
-    "@react-email/code-block" "0.0.11"
+    "@react-email/code-block" "0.0.12"
     "@react-email/code-inline" "0.0.5"
     "@react-email/column" "0.0.13"
     "@react-email/container" "0.0.15"
@@ -460,7 +460,7 @@
     "@react-email/link" "0.0.12"
     "@react-email/markdown" "0.0.14"
     "@react-email/preview" "0.0.12"
-    "@react-email/render" "1.0.5"
+    "@react-email/render" "1.0.6"
     "@react-email/row" "0.0.12"
     "@react-email/section" "0.0.16"
     "@react-email/tailwind" "1.0.4"
@@ -518,13 +518,13 @@
   resolved "https://registry.yarnpkg.com/@react-email/preview/-/preview-0.0.12.tgz#5c1291d7e18d63991430e59da43dd9952d2d9988"
   integrity sha512-g/H5fa9PQPDK6WUEG7iTlC19sAktI23qyoiJtMLqQiXFCfWeQMhqjLGKeLSKkfzszqmfJCjZtpSiKtBoOdxp3Q==
 
-"@react-email/render@1.0.5":
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/@react-email/render/-/render-1.0.5.tgz#88285b9314b85d2bc102f5bf3e558be82b87bc18"
-  integrity sha512-CA69HYXPk21HhtAXATIr+9JJwpDNmAFCvdMUjWmeoD1+KhJ9NAxusMRxKNeibdZdslmq3edaeOKGbdQ9qjK8LQ==
+"@react-email/render@1.0.6":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@react-email/render/-/render-1.0.6.tgz#52ee2276febd4a08e3f2a7ad3c055d451e7d3731"
+  integrity sha512-zNueW5Wn/4jNC1c5LFgXzbUdv5Lhms+FWjOvWAhal7gx5YVf0q6dPJ0dnR70+ifo59gcMLwCZEaTS9EEuUhKvQ==
   dependencies:
     html-to-text "9.0.5"
-    prettier "3.4.2"
+    prettier "3.5.3"
     react-promise-suspense "0.3.4"
 
 "@react-email/row@0.0.12":
@@ -1085,12 +1085,12 @@ negotiator@0.6.3:
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.3.tgz#58e323a72fedc0d6f9cd4d31fe49f51479590ccd"
   integrity sha512-+EUsqGPLsM+j/zdChZjsnX51g4XrHFOIXwfnCVPGlQk/k5giakcKsuxCObBRu6DSm9opw/O6slWbJdghQM4bBg==
 
-next@15.2.2:
-  version "15.2.2"
-  resolved "https://registry.yarnpkg.com/next/-/next-15.2.2.tgz#e3941a0e0e76cfe1880b57452807489e0546e3a2"
-  integrity sha512-dgp8Kcx5XZRjMw2KNwBtUzhngRaURPioxoNIVl5BOyJbhi9CUgEtKDO7fx5wh8Z8vOVX1nYZ9meawJoRrlASYA==
+next@15.2.3:
+  version "15.2.3"
+  resolved "https://registry.yarnpkg.com/next/-/next-15.2.3.tgz#1ac803c08076d47eb5b431cb625135616c6bec7e"
+  integrity sha512-x6eDkZxk2rPpu46E1ZVUWIBhYCLszmUY6fvHBFcbzJ9dD+qRX6vcHusaqqDlnY+VngKzKbAiG2iRCkPbmi8f7w==
   dependencies:
-    "@next/env" "15.2.2"
+    "@next/env" "15.2.3"
     "@swc/counter" "0.1.3"
     "@swc/helpers" "0.5.15"
     busboy "1.6.0"
@@ -1098,14 +1098,14 @@ next@15.2.2:
     postcss "8.4.31"
     styled-jsx "5.1.6"
   optionalDependencies:
-    "@next/swc-darwin-arm64" "15.2.2"
-    "@next/swc-darwin-x64" "15.2.2"
-    "@next/swc-linux-arm64-gnu" "15.2.2"
-    "@next/swc-linux-arm64-musl" "15.2.2"
-    "@next/swc-linux-x64-gnu" "15.2.2"
-    "@next/swc-linux-x64-musl" "15.2.2"
-    "@next/swc-win32-arm64-msvc" "15.2.2"
-    "@next/swc-win32-x64-msvc" "15.2.2"
+    "@next/swc-darwin-arm64" "15.2.3"
+    "@next/swc-darwin-x64" "15.2.3"
+    "@next/swc-linux-arm64-gnu" "15.2.3"
+    "@next/swc-linux-arm64-musl" "15.2.3"
+    "@next/swc-linux-x64-gnu" "15.2.3"
+    "@next/swc-linux-x64-musl" "15.2.3"
+    "@next/swc-win32-arm64-msvc" "15.2.3"
+    "@next/swc-win32-x64-msvc" "15.2.3"
     sharp "^0.33.5"
 
 normalize-path@3.0.0:
@@ -1180,20 +1180,20 @@ postcss@8.4.31:
     picocolors "^1.0.0"
     source-map-js "^1.0.2"
 
-prettier@3.4.2:
-  version "3.4.2"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.4.2.tgz#a5ce1fb522a588bf2b78ca44c6e6fe5aa5a2b13f"
-  integrity sha512-e9MewbtFo+Fevyuxn/4rrcDAaq0IYxPGLvObpQjiZBMAzB9IGmzlnG9RZy3FFas+eBMu2vA0CszMeduow5dIuQ==
+prettier@3.5.3:
+  version "3.5.3"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.5.3.tgz#4fc2ce0d657e7a02e602549f053b239cb7dfe1b5"
+  integrity sha512-QQtaxnoDJeAkDvDKWCLiwIXkTgRhwYDEQCghU9Z6q03iyek/rxRh/2lC3HB7P8sWT2xC/y5JDctPLBIGzHKbhw==
 
-prismjs@1.29.0:
-  version "1.29.0"
-  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.29.0.tgz#f113555a8fa9b57c35e637bba27509dcf802dd12"
-  integrity sha512-Kx/1w86q/epKcmte75LNrEoT+lX8pBpavuAbvJWRXar7Hz8jrtF+e3vY751p0R8H9HdArwaCTNDDzHg/ScJK1Q==
+prismjs@1.30.0:
+  version "1.30.0"
+  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.30.0.tgz#d9709969d9d4e16403f6f348c63553b19f0975a9"
+  integrity sha512-DEvV2ZF2r2/63V+tK8hQvrR2ZGn10srHbXviTlcv7Kpzw8jWiNTqbVgjO3IY8RxrrOUF8VPMQQFysYYYv0YZxw==
 
-react-email@4.0.3:
-  version "4.0.3"
-  resolved "https://registry.yarnpkg.com/react-email/-/react-email-4.0.3.tgz#1b85b3ef9e76352704d2d4bc71e244178b023f7d"
-  integrity sha512-aaQWy8uIjd0mah3BKEulHOLgxDqsDUvrau3iwFdEz2qoc3kknACvZSbRNDcJrmxVLkUaGqAarFTSuioY6jGJoQ==
+react-email@4.0.4:
+  version "4.0.4"
+  resolved "https://registry.yarnpkg.com/react-email/-/react-email-4.0.4.tgz#a7f6432fe8a8d5f5195b02a9fac57d2d7ec20886"
+  integrity sha512-W+fdztx6qafK5xCYhKg1R/F0mQJHd+ubYTBk9FJMOqoEcgn7n/myPbPSKDWuGt/hYrvurCHs4DBNhj47sgecGA==
   dependencies:
     "@babel/parser" "7.24.5"
     "@babel/traverse" "7.25.6"
@@ -1205,7 +1205,7 @@ react-email@4.0.3:
     glob "10.3.4"
     log-symbols "4.1.0"
     mime-types "2.1.35"
-    next "15.2.2"
+    next "15.2.3"
     normalize-path "3.0.0"
     ora "5.4.1"
     socket.io "4.8.1"
