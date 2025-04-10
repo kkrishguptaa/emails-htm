@@ -1190,10 +1190,10 @@ prismjs@1.30.0:
   resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.30.0.tgz#d9709969d9d4e16403f6f348c63553b19f0975a9"
   integrity sha512-DEvV2ZF2r2/63V+tK8hQvrR2ZGn10srHbXviTlcv7Kpzw8jWiNTqbVgjO3IY8RxrrOUF8VPMQQFysYYYv0YZxw==
 
-react-email@4.0.6:
-  version "4.0.6"
-  resolved "https://registry.yarnpkg.com/react-email/-/react-email-4.0.6.tgz#1510a673b428ee1b7ee5454d379b5303187627b5"
-  integrity sha512-RzMDZCRd2JFFkGljhBWNWGH2ti4Qnhcx03nR1uPW1vNBptqDJx/fxSJqzCDYEEpTkWPaEe2unHM4CdzRAI7awg==
+react-email@4.0.7:
+  version "4.0.7"
+  resolved "https://registry.yarnpkg.com/react-email/-/react-email-4.0.7.tgz#7031c2a7b22502213494670e7e4d4a8e66859950"
+  integrity sha512-XCXlfZLKv9gHd/ZwUEhCpRGc/FJLZGYczeuG1kVR/be2PlkwEB4gjX9ARBbRFv86ncbtpOu/wI6jD6kadRyAKw==
   dependencies:
     "@babel/parser" "7.24.5"
     "@babel/traverse" "7.25.6"
