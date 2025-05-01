@@ -1087,7 +1087,7 @@ negotiator@0.6.3:
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.3.tgz#58e323a72fedc0d6f9cd4d31fe49f51479590ccd"
   integrity sha512-+EUsqGPLsM+j/zdChZjsnX51g4XrHFOIXwfnCVPGlQk/k5giakcKsuxCObBRu6DSm9opw/O6slWbJdghQM4bBg==
 
-next@^15.2.4:
+next@^15.3.1:
   version "15.3.1"
   resolved "https://registry.yarnpkg.com/next/-/next-15.3.1.tgz#69cf2c124e504db64e14fc75eb29bd64c0c787a7"
   integrity sha512-8+dDV0xNLOgHlyBxP1GwHGVaNXsmp+2NhZEYrXr24GWLHtt27YrBPbPuHvzlhi7kZNYjeJNR93IF5zfFu5UL0g==
@@ -1202,10 +1202,10 @@ prismjs@^1.30.0:
   resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.30.0.tgz#d9709969d9d4e16403f6f348c63553b19f0975a9"
   integrity sha512-DEvV2ZF2r2/63V+tK8hQvrR2ZGn10srHbXviTlcv7Kpzw8jWiNTqbVgjO3IY8RxrrOUF8VPMQQFysYYYv0YZxw==
 
-react-email@4.0.9:
-  version "4.0.9"
-  resolved "https://registry.yarnpkg.com/react-email/-/react-email-4.0.9.tgz#07d97c7d0246c6e50a8ec926f1ac85265e859f0b"
-  integrity sha512-A0mQUkGwoedjCflz3kOpgqIoLjEfzUVnrsc/xB3FaFlxmUyUOqj5ZmuXYHjr05kVy9j7yF68zsJM7w49rzEqmA==
+react-email@4.0.11:
+  version "4.0.11"
+  resolved "https://registry.yarnpkg.com/react-email/-/react-email-4.0.11.tgz#5fcea73315cb73716c2b88a99ffe12300dbc6196"
+  integrity sha512-t/8ZlVSOXVlmtbLLAinTePYefdx1FipPiu9a4RmFar7vizevrDoTNz8mEzOBEMTJp/OhloP3UOkLJN0iCjBDrg==
   dependencies:
     "@babel/parser" "^7.27.0"
     "@babel/traverse" "^7.27.0"
@@ -1217,7 +1217,7 @@ react-email@4.0.9:
     glob "^11.0.0"
     log-symbols "^7.0.0"
     mime-types "^3.0.0"
-    next "^15.2.4"
+    next "^15.3.1"
     normalize-path "^3.0.0"
     ora "^8.0.0"
     socket.io "^4.8.1"
