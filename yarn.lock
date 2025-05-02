@@ -460,10 +460,10 @@
   resolved "https://registry.yarnpkg.com/@react-email/column/-/column-0.0.13.tgz#0aaa5d6abae1b590a0262bfbfd241344a2c60ad3"
   integrity sha512-Lqq17l7ShzJG/d3b1w/+lVO+gp2FM05ZUo/nW0rjxB8xBICXOVv6PqjDnn3FXKssvhO5qAV20lHM6S+spRhEwQ==
 
-"@react-email/components@0.0.37":
-  version "0.0.37"
-  resolved "https://registry.yarnpkg.com/@react-email/components/-/components-0.0.37.tgz#613b7bd976851403758c1e43147b188b21b48c76"
-  integrity sha512-M4MKALwezAf9uVMQHsR6k/MvfQ9H3xyrOppGfOiznPnjcv+/7oWiHERzL7Ani5nrCsc+fhc70zybpwtVQ/NSHQ==
+"@react-email/components@0.0.38":
+  version "0.0.38"
+  resolved "https://registry.yarnpkg.com/@react-email/components/-/components-0.0.38.tgz#d37aaba060e2231d7bb69d7c6e9e8b4f7749fc2b"
+  integrity sha512-2cjMBZsSPjD1Iyur/MzGrgW/n5A6ONOJQ97pNaVOClxz/EaqNZTo1lFmKdH7p54P7LG9ZxRXxoTe2075VCCGQA==
   dependencies:
     "@react-email/body" "0.0.11"
     "@react-email/button" "0.0.19"
@@ -484,7 +484,7 @@
     "@react-email/row" "0.0.12"
     "@react-email/section" "0.0.16"
     "@react-email/tailwind" "1.0.5"
-    "@react-email/text" "0.1.2"
+    "@react-email/text" "0.1.3"
 
 "@react-email/container@0.0.15":
   version "0.0.15"
@@ -562,10 +562,10 @@
   resolved "https://registry.yarnpkg.com/@react-email/tailwind/-/tailwind-1.0.5.tgz#be09d397be4551970b159309c16be4bca3c1ff39"
   integrity sha512-BH00cZSeFfP9HiDASl+sPHi7Hh77W5nzDgdnxtsVr/m3uQD9g180UwxcE3PhOfx0vRdLzQUU8PtmvvDfbztKQg==
 
-"@react-email/text@0.1.2":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/@react-email/text/-/text-0.1.2.tgz#4af42c2f8c88b04a671ca69debc64a3246f6fb57"
-  integrity sha512-B5xDDBxgYpu/j7K4PSXuGmXgEvTheMyvnVXf/Md2u9dhvBHq65CPvSqYxDM1vjDjKd39GQEI7dqT2QIjER2DGA==
+"@react-email/text@0.1.3":
+  version "0.1.3"
+  resolved "https://registry.yarnpkg.com/@react-email/text/-/text-0.1.3.tgz#b9ed5ab9685d671ca2afd01410994b8e122d21a9"
+  integrity sha512-H22KR54MXUg29a+1/lTfg9oCQA65V8+TL4v19OzV7RsOxnEnzGOc287XKh8vc+v7ENewrMV97BzUPOnKz3bqkA==
 
 "@selderee/plugin-htmlparser2@^0.11.0":
   version "0.11.0"
