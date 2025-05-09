@@ -460,10 +460,10 @@
   resolved "https://registry.yarnpkg.com/@react-email/column/-/column-0.0.13.tgz#0aaa5d6abae1b590a0262bfbfd241344a2c60ad3"
   integrity sha512-Lqq17l7ShzJG/d3b1w/+lVO+gp2FM05ZUo/nW0rjxB8xBICXOVv6PqjDnn3FXKssvhO5qAV20lHM6S+spRhEwQ==
 
-"@react-email/components@0.0.38":
-  version "0.0.38"
-  resolved "https://registry.yarnpkg.com/@react-email/components/-/components-0.0.38.tgz#d37aaba060e2231d7bb69d7c6e9e8b4f7749fc2b"
-  integrity sha512-2cjMBZsSPjD1Iyur/MzGrgW/n5A6ONOJQ97pNaVOClxz/EaqNZTo1lFmKdH7p54P7LG9ZxRXxoTe2075VCCGQA==
+"@react-email/components@0.0.39":
+  version "0.0.39"
+  resolved "https://registry.yarnpkg.com/@react-email/components/-/components-0.0.39.tgz#0147075562fc41bfc575ed031eebbe4191c98f66"
+  integrity sha512-5ABL9rCDuWT1unjJ/GbWR/yik83KZD3lKYqiZ8qtNKezpDxIYe6FU61gOE3kkIGz1oqz3FP1kolsG5tX6J8p4w==
   dependencies:
     "@react-email/body" "0.0.11"
     "@react-email/button" "0.0.19"
@@ -484,7 +484,7 @@
     "@react-email/row" "0.0.12"
     "@react-email/section" "0.0.16"
     "@react-email/tailwind" "1.0.5"
-    "@react-email/text" "0.1.3"
+    "@react-email/text" "0.1.4"
 
 "@react-email/container@0.0.15":
   version "0.0.15"
@@ -562,10 +562,10 @@
   resolved "https://registry.yarnpkg.com/@react-email/tailwind/-/tailwind-1.0.5.tgz#be09d397be4551970b159309c16be4bca3c1ff39"
   integrity sha512-BH00cZSeFfP9HiDASl+sPHi7Hh77W5nzDgdnxtsVr/m3uQD9g180UwxcE3PhOfx0vRdLzQUU8PtmvvDfbztKQg==
 
-"@react-email/text@0.1.3":
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/@react-email/text/-/text-0.1.3.tgz#b9ed5ab9685d671ca2afd01410994b8e122d21a9"
-  integrity sha512-H22KR54MXUg29a+1/lTfg9oCQA65V8+TL4v19OzV7RsOxnEnzGOc287XKh8vc+v7ENewrMV97BzUPOnKz3bqkA==
+"@react-email/text@0.1.4":
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/@react-email/text/-/text-0.1.4.tgz#2d6a2f68844ee14d4427a613eac95e6115ed0cc8"
+  integrity sha512-cMNE02y8172DocpNGh97uV5HSTawaS4CKG/zOku8Pu+m6ehBKbAjgtQZDIxhgstw8+TWraFB8ltS1DPjfG8nLA==
 
 "@selderee/plugin-htmlparser2@^0.11.0":
   version "0.11.0"
@@ -1202,10 +1202,10 @@ prismjs@^1.30.0:
   resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.30.0.tgz#d9709969d9d4e16403f6f348c63553b19f0975a9"
   integrity sha512-DEvV2ZF2r2/63V+tK8hQvrR2ZGn10srHbXviTlcv7Kpzw8jWiNTqbVgjO3IY8RxrrOUF8VPMQQFysYYYv0YZxw==
 
-react-email@4.0.11:
-  version "4.0.11"
-  resolved "https://registry.yarnpkg.com/react-email/-/react-email-4.0.11.tgz#5fcea73315cb73716c2b88a99ffe12300dbc6196"
-  integrity sha512-t/8ZlVSOXVlmtbLLAinTePYefdx1FipPiu9a4RmFar7vizevrDoTNz8mEzOBEMTJp/OhloP3UOkLJN0iCjBDrg==
+react-email@4.0.12:
+  version "4.0.12"
+  resolved "https://registry.yarnpkg.com/react-email/-/react-email-4.0.12.tgz#dc761a7b4d76bd3da4f4f11bbb8f705854bdafe8"
+  integrity sha512-ihPMTYChI67CSeMV1skae5uaKd4YRC7foZGWt/V3UrwWc+ksjuSf1coUiZC+yP59dscD4F0aFzLb0uTY7RWJbw==
   dependencies:
     "@babel/parser" "^7.27.0"
     "@babel/traverse" "^7.27.0"
