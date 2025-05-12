@@ -460,10 +460,10 @@
   resolved "https://registry.yarnpkg.com/@react-email/column/-/column-0.0.13.tgz#0aaa5d6abae1b590a0262bfbfd241344a2c60ad3"
   integrity sha512-Lqq17l7ShzJG/d3b1w/+lVO+gp2FM05ZUo/nW0rjxB8xBICXOVv6PqjDnn3FXKssvhO5qAV20lHM6S+spRhEwQ==
 
-"@react-email/components@0.0.39":
-  version "0.0.39"
-  resolved "https://registry.yarnpkg.com/@react-email/components/-/components-0.0.39.tgz#0147075562fc41bfc575ed031eebbe4191c98f66"
-  integrity sha512-5ABL9rCDuWT1unjJ/GbWR/yik83KZD3lKYqiZ8qtNKezpDxIYe6FU61gOE3kkIGz1oqz3FP1kolsG5tX6J8p4w==
+"@react-email/components@0.0.40":
+  version "0.0.40"
+  resolved "https://registry.yarnpkg.com/@react-email/components/-/components-0.0.40.tgz#fc0a0edbd1c7aff7b20cd8b1f50af6132c5d4cbc"
+  integrity sha512-MXBjXyjCAczWIxq12Im5ysAIp8mXeSVm9YMF7t4rMjqH6+uxrCxWWqQbaLMUtjHkhD4OmXb3ay2aMG2oGKWk+g==
   dependencies:
     "@react-email/body" "0.0.11"
     "@react-email/button" "0.0.19"
@@ -479,8 +479,8 @@
     "@react-email/img" "0.0.11"
     "@react-email/link" "0.0.12"
     "@react-email/markdown" "0.0.15"
-    "@react-email/preview" "0.0.12"
-    "@react-email/render" "1.1.0"
+    "@react-email/preview" "0.0.13"
+    "@react-email/render" "1.1.1"
     "@react-email/row" "0.0.12"
     "@react-email/section" "0.0.16"
     "@react-email/tailwind" "1.0.5"
@@ -533,15 +533,15 @@
   dependencies:
     md-to-react-email "^5.0.5"
 
-"@react-email/preview@0.0.12":
-  version "0.0.12"
-  resolved "https://registry.yarnpkg.com/@react-email/preview/-/preview-0.0.12.tgz#5c1291d7e18d63991430e59da43dd9952d2d9988"
-  integrity sha512-g/H5fa9PQPDK6WUEG7iTlC19sAktI23qyoiJtMLqQiXFCfWeQMhqjLGKeLSKkfzszqmfJCjZtpSiKtBoOdxp3Q==
+"@react-email/preview@0.0.13":
+  version "0.0.13"
+  resolved "https://registry.yarnpkg.com/@react-email/preview/-/preview-0.0.13.tgz#b68365d26a2772910d7a19345fa109819b167606"
+  integrity sha512-F7j9FJ0JN/A4d7yr+aw28p4uX7VLWs7hTHtLo7WRyw4G+Lit6Zucq4UWKRxJC8lpsUdzVmG7aBJnKOT+urqs/w==
 
-"@react-email/render@1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@react-email/render/-/render-1.1.0.tgz#62db5fa271a695503ec750f262b798a65446337c"
-  integrity sha512-X4CsHvXi5X7kTn5NgXNGg8Y5U1VtVJmlpNLlTc2E8RVHKFS3bpr+o/ZXhEPN4yRkdY+ZYN5eqVTV922Hujqsxw==
+"@react-email/render@1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@react-email/render/-/render-1.1.1.tgz#0887bf381dd2edd43bde7c00815ef6f6b00b6bae"
+  integrity sha512-YB7GtmfNbCqq/Jm+wYg+LD85OvPtoBFW5qOI55ap3BWw1UUggGLTqUgU0hy0qP5NrfRM//L2owBU/4DENfgnvg==
   dependencies:
     html-to-text "^9.0.5"
     prettier "^3.5.3"
