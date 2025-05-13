@@ -10,7 +10,7 @@
     "export": "email export"
   },
   "dependencies": {
-    "@react-email/components": "0.0.40",
+    "@react-email/components": "0.0.41",
     "@react-email/markdown": "0.0.15",
     "@react-email/tailwind": "1.0.5",
     "react-email": "4.0.13",

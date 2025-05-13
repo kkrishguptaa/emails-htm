@@ -460,10 +460,10 @@
   resolved "https://registry.yarnpkg.com/@react-email/column/-/column-0.0.13.tgz#0aaa5d6abae1b590a0262bfbfd241344a2c60ad3"
   integrity sha512-Lqq17l7ShzJG/d3b1w/+lVO+gp2FM05ZUo/nW0rjxB8xBICXOVv6PqjDnn3FXKssvhO5qAV20lHM6S+spRhEwQ==
 
-"@react-email/components@0.0.40":
-  version "0.0.40"
-  resolved "https://registry.yarnpkg.com/@react-email/components/-/components-0.0.40.tgz#fc0a0edbd1c7aff7b20cd8b1f50af6132c5d4cbc"
-  integrity sha512-MXBjXyjCAczWIxq12Im5ysAIp8mXeSVm9YMF7t4rMjqH6+uxrCxWWqQbaLMUtjHkhD4OmXb3ay2aMG2oGKWk+g==
+"@react-email/components@0.0.41":
+  version "0.0.41"
+  resolved "https://registry.yarnpkg.com/@react-email/components/-/components-0.0.41.tgz#11d51e3a056d276a8d4ea0ec190b45a7b9708f38"
+  integrity sha512-WUI3wHwra3QS0pwrovSU6b0I0f3TvY33ph0y44LuhSYDSQlMRyeOzgoT6HRDY5FXMDF57cHYq9WoKwpwP0yd7Q==
   dependencies:
     "@react-email/body" "0.0.11"
     "@react-email/button" "0.0.19"
@@ -480,7 +480,7 @@
     "@react-email/link" "0.0.12"
     "@react-email/markdown" "0.0.15"
     "@react-email/preview" "0.0.13"
-    "@react-email/render" "1.1.1"
+    "@react-email/render" "1.1.2"
     "@react-email/row" "0.0.12"
     "@react-email/section" "0.0.16"
     "@react-email/tailwind" "1.0.5"
@@ -538,10 +538,10 @@
   resolved "https://registry.yarnpkg.com/@react-email/preview/-/preview-0.0.13.tgz#b68365d26a2772910d7a19345fa109819b167606"
   integrity sha512-F7j9FJ0JN/A4d7yr+aw28p4uX7VLWs7hTHtLo7WRyw4G+Lit6Zucq4UWKRxJC8lpsUdzVmG7aBJnKOT+urqs/w==
 
-"@react-email/render@1.1.1":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@react-email/render/-/render-1.1.1.tgz#0887bf381dd2edd43bde7c00815ef6f6b00b6bae"
-  integrity sha512-YB7GtmfNbCqq/Jm+wYg+LD85OvPtoBFW5qOI55ap3BWw1UUggGLTqUgU0hy0qP5NrfRM//L2owBU/4DENfgnvg==
+"@react-email/render@1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@react-email/render/-/render-1.1.2.tgz#49a3d0ec3c650bd280f0614359f25de907c9e0da"
+  integrity sha512-RnRehYN3v9gVlNMehHPHhyp2RQo7+pSkHDtXPvg3s0GbzM9SQMW4Qrf8GRNvtpLC4gsI+Wt0VatNRUFqjvevbw==
   dependencies:
     html-to-text "^9.0.5"
     prettier "^3.5.3"
